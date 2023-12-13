@@ -20,7 +20,6 @@ Ceci est une description
 <a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/UnrealEngine.svg" width="36" height="36" alt="UnrealEngine"/></a>
 <a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Cplusplus.svg" width="36" height="36" alt="C++"/></a>
 <a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Git.svg" width="36" height="36" alt="Git"/></a>
-<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/TortoiseSVN.svg" width="36" height="36" alt="TortoiseSVN"/></a>
 </p>
 
 ### Secondary
@@ -35,7 +34,7 @@ Ceci est une description
 ## Socials
 
 <p align="left"> 
-<a href="https://fr.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/linkedin.svg" width="36" height="36" alt="Linkedin"/></a>
-<a href="https://www.github.com/Midir1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="36" height="36" alt="itch.io"/></a>
+<a href="https://fr.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Linkedin.svg" width="36" height="36" alt="Linkedin"/></a>
+<a href="https://midir1.itch.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="36" height="36" alt="itch.io"/></a>
 <a href="https://sketchfab.com/Midir" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Sketchfab.svg" width="36" height="36" alt="Sketchfab"/></a>
 </p>
