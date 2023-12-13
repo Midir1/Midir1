@@ -7,28 +7,35 @@ Game Developer
 Ceci est une description
 
 * 🌍  I'm based in Marseille
-* 🖥️  See my portfolio at [My itch.io page](http://midir1.itch.io)
 * 🚀  I'm currently working on [My Machine Learning Project under Unreal Engine](http://github.com/Midir1/ML_Project)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm learning Reinforcement Learning, Neural Network, Q-Learning
 
 ## Skills
 
 ### Main
 
 <p align="left">
-<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Unity.svg" width="36" height="36" alt="Unity"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Csharp.svg" width="36" height="36" alt="C#"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/UnrealEngine.svg" width="36" height="36" alt="UnrealEngine"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Cplusplus.svg" width="36" height="36" alt="C++"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Git.svg" width="36" height="36" alt="Git"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/TortoiseSVN.svg" width="36" height="36" alt="TortoiseSVN"/></a>
 </p>
 
 ### Secondary
 
 <p align="left">
-<a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/MySql.svg" width="36" height="36" alt="MySql"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Maya.svg" width="36" height="36" alt="Maya"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/SubstanceDesigner.svg" width="36" height="36" alt="SubstanceDesigner"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Scrum.png" width="36" height="36" alt="Scrum"/></a>
 </p>
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/Midir1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://www.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<p align="left"> 
+<a href="https://fr.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/linkedin.svg" width="36" height="36" alt="Linkedin"/></a>
+<a href="https://www.github.com/Midir1" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="36" height="36" alt="itch.io"/></a>
+<a href="https://sketchfab.com/Midir" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Sketchfab.svg" width="36" height="36" alt="Sketchfab"/></a>
 </p>
