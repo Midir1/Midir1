@@ -39,35 +39,22 @@ My name is Jordan and I'm currently in my final year at Creajeux. I've been stud
 
 ## `Projects`
 
-<div style="display: flex;">
+### Industrial Warfare
+![Industrial Warfare Image](https://img.itch.zone/aW1hZ2UvMjE0NDM3NS8xMjY0NjYxOS5wbmc=/original/2fXPmu.png)
+Description for Industrial Warfare.
 
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMjE0NDM3NS8xMjY0NjYxOS5wbmc=/original/2fXPmu.png" alt="Industrial Warfare Image" width="200"/>
-    <p>Industrial Warfare</p>
-  </div>
+### Die Die Dinosaur
+![Die Die Dinosaur Image](https://img.itch.zone/aW1hZ2UvMTQ0NTY4OS84NDQwNDAxLnBuZw==/original/MgDFW6.png)
+Description for Die Die Dinosaur.
 
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQ0NTY4OS84NDQwNDAxLnBuZw==/original/MgDFW6.png" alt="Die Die Dinosaur Image" width="200"/>
-    <p>Die Die Dinosaur</p>
-  </div>
+### Tank You
+![Tank You Image](https://img.itch.zone/aW1hZ2UvMTQwNDc5Mi84NDMxMjM2LnBuZw==/347x500/PAQgbr.png)
+Description for Tank You.
 
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQwNDc5Mi84NDMxMjM2LnBuZw==/347x500/PAQgbr.png" alt="Tank You Image" width="200"/>
-    <p>Tank You</p>
-  </div>
+### DSProject
+![DSProject Image](https://img.itch.zone/aW1hZ2UvMTA2ODMxMS82MTE4MzgwLnBuZw==/347x500/zG8YMK.png)
+Description for DSProject.
 
-</div>
-
-<div style="display: flex;">
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTA2ODMxMS82MTE4MzgwLnBuZw==/347x500/zG8YMK.png" alt="DSProject Image" width="200"/>
-    <p>DSProject</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvOTE5MzEzLzUzMzY0MTUucG5n/347x500/7ukAwj.png" alt="Emergency Image" width="200"/>
-    <p>Emergency</p>
-  </div>
-
-</div>
+### Emergency
+![Emergency Image](https://img.itch.zone/aW1hZ2UvOTE5MzEzLzUzMzY0MTUucG5n/347x500/7ukAwj.png)
+Description for Emergency.
