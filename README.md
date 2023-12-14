@@ -36,7 +36,3 @@ My name is Jordan and I'm currently in my final year at Creajeux. I've been stud
 <a href="https://midir1.itch.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="36" height="36" alt="itch.io" style="padding-right:10px"/></a>
 <a href="https://sketchfab.com/Midir" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Sketchfab.svg" width="46" height="36" alt="Sketchfab" style="padding-right:10px"/></a>
 </p>
-
-## `Projects`
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/5434844?color=f7e1bb" allowfullscreen="" width="640" height="380"><a href="https://midir1.itch.io/tank-you">Play Tank You on itch.io</a></iframe>
