@@ -26,48 +26,17 @@ My name is Jordan and I'm currently in my final year at Creajeux. I've been stud
 <a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/MySql.svg" width="46" height="36" alt="MySql" style="padding-right:10px"/></a>
 <a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Maya.svg" width="46" height="36" alt="Maya" style="padding-right:10px"/></a>
 <a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/SubstanceDesigner.svg" width="46" height="36" alt="SubstanceDesigner" style="padding-right:10px"/></a>
-<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Scrum.png" width="46" height="36" alt="Scrum" style="padding-right:10px"/></a>
+<a><img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Scrum.png" width="36" height="36" alt="Scrum" style="padding-right:10px"/></a>
 </p>
 
 ## `Socials`
 
 <p align="left"> 
 <a href="https://fr.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Linkedin.svg" width="46" height="36" alt="Linkedin" style="padding-right:10px"/></a>
-<a href="https://midir1.itch.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="46" height="36" alt="itch.io" style="padding-right:10px"/></a>
+<a href="https://midir1.itch.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="36" height="36" alt="itch.io" style="padding-right:10px"/></a>
 <a href="https://sketchfab.com/Midir" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Sketchfab.svg" width="46" height="36" alt="Sketchfab" style="padding-right:10px"/></a>
 </p>
 
 ## `Projects`
 
-<div style="display: flex;">
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMjE0NDM3NS8xMjY0NjYxOS5wbmc=/original/2fXPmu.png" alt="Industrial Warfare Image" width="200"/>
-    <p><span style="color: #ff7300; font-weight: bold;">Industrial Warfare</span></p>
-  </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQ0NTY4OS84NDQwNDAxLnBuZw==/original/MgDFW6.png" alt="Die Die Dinosaur Image" width="200"/>
-    <p><span style="color: #ff7300; font-weight: bold;">Die Die Dinosaur</span></p>
-  </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTQwNDc5Mi84NDMxMjM2LnBuZw==/347x500/PAQgbr.png" alt="Tank You Image" width="200"/>
-    <p><span style="color: #ff7300; font-weight: bold;">Tank You</span></p>
-  </div>
-
-</div>
-
-<div style="display: flex;">
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvMTA2ODMxMS82MTE4MzgwLnBuZw==/347x500/zG8YMK.png" alt="DSProject Image" width="200"/>
-    <p><span style="color: #ff7300; font-weight: bold;">DSProject</span></p>
-  </div>
-
-  <div style="flex: 1; text-align: center; margin: 10px;">
-    <img src="https://img.itch.zone/aW1hZ2UvOTE5MzEzLzUzMzY0MTUucG5n/347x500/7ukAwj.png" alt="Emergency Image" width="200"/>
-    <p><span style="color: #ff7300; font-weight: bold;">Emergency</span></p>
-  </div>
-
-</div>
+<iframe frameborder="0" src="https://itch.io/embed-upload/5434844?color=f7e1bb" allowfullscreen="" width="640" height="380"><a href="https://midir1.itch.io/tank-you">Play Tank You on itch.io</a></iframe>
