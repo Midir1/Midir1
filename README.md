@@ -32,6 +32,7 @@ My name is Jordan and I'm currently in my final year at Creajeux. I've been stud
 ## `Socials`
 
 <p align="left"> 
+<a href="https://midir1.github.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Website.png" width="46" height="36" alt="Website" style="padding-right:10px"/></a>
 <a href="https://fr.linkedin.com/in/jordan-passalacqua" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Linkedin.svg" width="46" height="36" alt="Linkedin" style="padding-right:10px"/></a>
 <a href="https://midir1.itch.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Itch_io.svg" width="36" height="36" alt="itch.io" style="padding-right:10px"/></a>
 <a href="https://sketchfab.com/Midir" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Midir1/Midir1/main/Logos/Sketchfab.svg" width="46" height="36" alt="Sketchfab" style="padding-right:10px"/></a>
