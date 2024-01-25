@@ -1,12 +1,12 @@
-# `Hello, i'm Jordan "Midir" Passalacqua`
+# `Hello, i'm Jordan Passalacqua`
 ## `Gameplay & AI Programmer`
 
 Hello, welcome to my GitHub!
-My name is Jordan and I'm currently in my final year at Creajeux. I've been studying game programming for over 4 years now, and I'd like to become a gameplay and AI programmer.
+My name is Jordan and I'm currently in my final year at Creajeux. I've been studying game programming for over 5 years now, and I'd like to become a gameplay and AI programmer.
 
 * 🌍  I'm based in Marseille
 * 🚀  I'm currently working on [My Machine Learning Project under Unreal Engine](http://github.com/Midir1/ML_Project)
-* 🧠  I'm learning Reinforcement Learning, Neural Network, Q-Learning
+* 🧠  I'm learning Neural Network and Backpropagation
 
 ## `Skills`
 
